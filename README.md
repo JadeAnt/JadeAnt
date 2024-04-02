@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a dedicated Computer Engineer currently undergoing my graduate studies with a specialization in Artificial Intelligence and Machine Learning (AI/ML). With a strong foundation in Cloud Computing, AI/ML, Programming, and Deep Learning concepts. Coupled with hands-on experience in application development and project management experience, I bring a dynamic skill set to the table.
+
 <!--
 **JadeAnt/JadeAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
