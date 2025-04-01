@@ -4,7 +4,7 @@ I’m a dedicated Computer Engineer currently undergoing my graduate studies wit
 
 - 🔭 I’m currently working on my own indie game for fun with C# and Unity!
 - 🌱 I’m currently learning AI/ML concepts @NYU
-- ⚡ Fun fact: I've traveled to 5 different continents!
+- ⚡ Fun fact: I've traveled to 10 different countries!
   
 <!--
 **JadeAnt/JadeAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
