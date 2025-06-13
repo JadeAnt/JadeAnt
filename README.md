@@ -1,6 +1,6 @@
 ### Welcome, I'm JadeAnt! 👋
 
-I’m a dedicated Computer Engineer currently undergoing my graduate studies with a specialization in Artificial Intelligence and Machine Learning (AI/ML). With a strong foundation in Cloud Computing, AI/ML, Programming, and Deep Learning concepts. Coupled with hands-on experience in application development and project management experience, I bring a dynamic skill set to the table.
+I’m a dedicated Computer Engineer with a specialization in Artificial Intelligence and Machine Learning (AI/ML). With a strong foundation in Cloud Computing, AI/ML, Programming, and Deep Learning concepts. Coupled with hands-on experience in application development and project management experience, I bring a dynamic skill set to the table.
 
 - 🔭 I’m currently working on my own indie game for fun with C# and Unity!
 - 🌱 I’m currently learning AI/ML concepts @NYU
