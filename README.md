@@ -35,11 +35,3 @@ I’m a dedicated Computer Engineer with a specialization in Artificial Intellig
 </picture>
 </a>
 </p>
-
-### Badges
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/JadeAnt/SBU-Bikeshare-App " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JadeAnt&repo=SBU-Bikeshare-App &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/JadeAnt/NYC-Vision-Zero-MLOPS " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JadeAnt&repo=NYC-Vision-Zero-MLOPS &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center">
-  <a href="https://github.com/JadeAnt/LLM-for-Sentiment-Analysis-on-Product-Reviews " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JadeAnt&repo=LLM-for-Sentiment-Analysis-on-Product-Reviews &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/JadeAnt/ Comparison-of-Music-Genre-Classification-Techniques" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JadeAnt&repo= Comparison-of-Music-Genre-Classification-Techniques&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
