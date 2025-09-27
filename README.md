@@ -8,7 +8,7 @@ I’m a dedicated Computer Engineer with a specialization in Artificial Intellig
 
 *   🌍  I'm based in NYC, NY
 *   ✉️  You can contact me at [jadenjantoine@gmail.com](mailto:jadenjantoine@gmail.com)
-*   🧠  I'm learning Google Cloud Platform
+*   🧠  I'm learning React Native for Mobile App development
 *   ⚡  On the side I work on developing my own indie games!
 
 ### Skills 
