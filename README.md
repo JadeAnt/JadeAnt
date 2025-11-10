@@ -6,8 +6,6 @@ Computer Engineer and Developer
 
 I’m a dedicated Computer Engineer with a specialization in Artificial Intelligence and Machine Learning (AI/ML). With a strong foundation in Cloud Computing, AI/ML, Programming, and Deep Learning concepts. Coupled with hands-on experience in application development and project management experience, I bring a dynamic skill set to the table.
 
-*   🌍  I'm based in NYC, NY
-*   ✉️  You can contact me at [jadenjantoine@gmail.com](mailto:jadenjantoine@gmail.com)
 *   🧠  I'm learning React Native for Mobile App development
 *   ⚡  On the side I work on developing my own indie games!
 
